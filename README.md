@@ -26,8 +26,8 @@ https://mailuc-my.sharepoint.com/:v:/g/personal/mareddsk_mail_uc_edu/EYUjRjY9-iZ
 
 # App Images
 ![App Screenshots](.expo/AppScreenshots/ArithmeticOperation.PNG)
-![App Screenshots](.expo/AppScreenshots\Darkmode.PNG)
-![App Screenshots](.expo/AppScreenshots\MultipleArithmeticOperations.PNG)
-![App Screenshots](.expo/AppScreenshots\Normalmode.PNG)
+![App Screenshots](.expo/AppScreenshots/Darkmode.PNG)
+![App Screenshots](.expo/AppScreenshots/MultipleArithmeticOperations.PNG)
+![App Screenshots](.expo/AppScreenshots/Normalmode.PNG)
 
 
