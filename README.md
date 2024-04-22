@@ -25,7 +25,7 @@ Our Calculator App is designed to perform basic arithmetic operations like addit
 https://mailuc-my.sharepoint.com/:v:/g/personal/mareddsk_mail_uc_edu/EYUjRjY9-iZGtguZBlApC0oBOWktbGp50mND9jH7lbfoCQ?e=XGuvpK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # App Images
-![App Screenshots](.expo/AppScreenshots\ArithmeticOperation.PNG)
+![App Screenshots](.expo/AppScreenshots/ArithmeticOperation.PNG)
 ![App Screenshots](.expo/AppScreenshots\Darkmode.PNG)
 ![App Screenshots](.expo/AppScreenshots\MultipleArithmeticOperations.PNG)
 ![App Screenshots](.expo/AppScreenshots\Normalmode.PNG)
